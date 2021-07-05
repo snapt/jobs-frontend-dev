@@ -1,8 +1,5 @@
 # jobs-frontend-dev
-Repo for the Snapt frontend developer evaluation.
-
-You may fork this repo and then submit your work when ready. The entire project should take you between 
-2 and 6 hours depending on the effort required. 
+Repo for the Snapt frontend developer evaluation. You may fork this repo and then submit your work when ready. 
 
 Please note that we will only ask you to complete this if you are already in the late stages 
 of our interview process.
