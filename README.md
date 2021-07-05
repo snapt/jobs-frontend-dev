@@ -51,3 +51,6 @@ These are entirely optional, but should you also feel the need to understand avo
  - Create a small backend to host the avocado dataset, and query it via API instead of directly from the csv.
 
 
+### Credits
+
+Dataset from Kaggle https://www.kaggle.com/smokingkrils/avacado-price-prediction
